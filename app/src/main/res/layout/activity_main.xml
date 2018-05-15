@@ -12,7 +12,8 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/circleImageView"
         android:layout_centerInParent="true"
-        android:text="Circle Image View" />
+        android:text="Circle Image View"
+        android:layout_marginBottom="10dp"/>
 
     <com.gravity.canvasdraw.CircleImageView
         android:id="@+id/circleImageView"
